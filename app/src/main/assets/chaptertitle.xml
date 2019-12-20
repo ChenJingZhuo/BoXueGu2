@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<infos>
+    <course id="1">
+        <imgtitle>通讯技术</imgtitle>
+        <title>
+            第1章 Android基础入门
+        </title>
+        <intro>
+            Android 是Google公司基于Linux 平台开发的手机及平板电脑的操作系统。自问世以来，
+            受到了前所未有的关注， 并成为移动平台最受欢迎的操作系统之一。 本章将针对Android 的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="2">
+        <imgtitle>View视图</imgtitle>
+        <title>
+            第2章 Android常见界面布局
+        </title>
+        <intro>
+            Android 程序开发最重要的一个环节就是界面处理，界面的美观度直接影响用户额第一印象，
+            因此，开发一个整体、美观的界面是至关重要的本章将针对Android中的UI开发进行详细的讲解。
+        </intro>
+    </course>
+    <course id="3">
+        <imgtitle>TextView</imgtitle>
+        <title>
+            第3章 Android常见界面控件
+        </title>
+        <intro>
+            在现实生活中，经常会使用手机进行打电话，发短信，玩游戏等，这就需要与手机界面进行互交。在Android系统中
+            用户与程序的交互式是通过Activity完成的。同时Activity的相关知识进行详细的解释。
+        </intro>
+    </course>
+    <course id="4">
+        <imgtitle>生命周期状态</imgtitle>
+        <title>
+            第4章 程序活动单元Activity
+        </title>
+        <intro>
+            Android 是Google公司基于Linux 平台开发的手机及平板电脑的操作系统。自问世以来，受到了前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。 本章将针对Android 的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="5">
+        <imgtitle>数据存储方式</imgtitle>
+        <title>
+            第5章 数据存储
+        </title>
+        <intro>
+            Android 是Google公司基于Linux 平台开发的手机及平板电脑的操作系统。自问世以来，受到了前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。 本章将针对Android 的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="6">
+        <imgtitle>业务需求分析</imgtitle>
+        <title>
+            第6章 阶段案例--记事本
+        </title>
+        <intro>
+            Android 是Google公司基于Linux 平台开发的手机及平板电脑的操作系统。自问世以来，受到了前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。 本章将针对Android 的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="7">
+        <imgtitle>内容提供者概述</imgtitle>
+        <title>
+            第7章 使用内容提供者共享数据
+        </title>
+        <intro>
+            Android 是Google公司基于Linux 平台开发的手机及平板电脑的操作系统。自问世以来，受到了前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。 本章将针对Android 的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="8">
+        <imgtitle>广播机制的概述</imgtitle>
+        <title>
+            第8章 广播机制
+        </title>
+        <intro>
+            Android 是Google公司基于Linux 平台开发的手机及平板电脑的操作系统。自问世以来，受到了前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。 本章将针对Android 的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="9">
+        <imgtitle>服务概述</imgtitle>
+        <title>
+            第9章 服务
+        </title>
+        <intro>
+            Android 是Google公司基于Linux 平台开发的手机及平板电脑的操作系统。自问世以来，受到了前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。 本章将针对Android 的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="10">
+        <imgtitle>事件处理概述</imgtitle>
+        <title>
+            第10章 Android事件处理
+        </title>
+        <intro>
+            Android 是Google公司基于Linux 平台开发的手机及平板电脑的操作系统。自问世以来，受到了前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。 本章将针对Android 的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="11">
+        <imgtitle>HTTP协议通信简介</imgtitle>
+        <title>
+            第11章 网络编程
+        </title>
+        <intro>
+            Android 是Google公司基于Linux 平台开发的手机及平板电脑的操作系统。自问世以来，受到了前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。 本章将针对Android 的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="12">
+        <imgtitle>业务需求分析</imgtitle>
+        <title>
+            第12章 阶段案例--智能聊天机器人
+        </title>
+        <intro>
+            Android 是Google公司基于Linux 平台开发的手机及平板电脑的操作系统。自问世以来，受到了前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。 本章将针对Android 的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="13">
+        <imgtitle>Bitmap类</imgtitle>
+        <title>
+            第13章 图形图像处理
+        </title>
+        <intro>
+            Android 是Google公司基于Linux 平台开发的手机及平板电脑的操作系统。自问世以来，受到了前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。 本章将针对Android 的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="14">
+        <imgtitle>MediaPlayer类播放音频</imgtitle>
+        <title>
+            第14章 多媒体应用开发
+        </title>
+        <intro>
+            Android 是Google公司基于Linux 平台开发的手机及平板电脑的操作系统。自问世以来，受到了前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。 本章将针对Android 的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="15">
+        <imgtitle>项目概述</imgtitle>
+        <title>
+            第15章 综合项目——网上订餐
+        </title>
+        <intro>
+            Android 是Google公司基于Linux 平台开发的手机及平板电脑的操作系统。自问世以来，受到了前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。 本章将针对Android 的基础知识进行详细的讲解。
+        </intro>
+    </course>
+    <course id="16">
+        <imgtitle>项目概述</imgtitle>
+        <title>
+            第15章 综合项目——网上订餐
+        </title>
+        <intro>
+            Android 是Google公司基于Linux 平台开发的手机及平板电脑的操作系统。自问世以来，受到了前所未有的关注，
+            并成为移动平台最受欢迎的操作系统之一。 本章将针对Android 的基础知识进行详细的讲解。
+        </intro>
+    </course>
+</infos>

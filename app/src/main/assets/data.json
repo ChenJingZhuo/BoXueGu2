@@ -1,0 +1,1292 @@
+[
+  {
+    "chapterId": 1,
+    "videoId": "1",
+    "title": "第1章 Android基础入门",
+    "secondTitle": "通信技术",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001001.mp4"
+  },
+  {
+    "chapterId": 1,
+    "videoId": "2",
+    "title": "第1章 Android 基础入门",
+    "secondTitle": "Android发展史",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001002.mp4"
+  },
+  {
+    "chapterId": 1,
+    "videoId": "3",
+    "title": "第1章 Android基础入门",
+    "secondTitle": "Android体系结构",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001003.mp4"
+  },
+  {
+    "chapterId": 1,
+    "videoId": "4",
+    "title": "第1章 Android 基础入门",
+    "secondTitle": "Dalvik虚拟机",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001004.mp4"
+  },
+  {
+    "chapterId": 1,
+    "videoId": "5",
+    "title": "第1章 Android基础入门",
+    "secondTitle": "Android Studio 安装",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001005.mp4"
+  },
+  {
+    "chapterId": 1,
+    "videoId": "6",
+    "title": "第1章 Android 基础入门",
+    "secondTitle": "模拟器创建",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001006.mp4"
+  },
+  {
+    "chapterId": 1,
+    "videoId": "7",
+    "title": "第1章 Android基础入门",
+    "secondTitle": "在Android Studio中下载SDK",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001007.mp4"
+  },
+  {
+    "chapterId": 1,
+    "videoId": "8",
+    "title": "第1章 Android 基础入门",
+    "secondTitle": "开发第一个Android程序",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001008.mp4"
+  },
+  {
+    "chapterId": 1,
+    "videoId": "9",
+    "title": "第1章 Android基础入门",
+    "secondTitle": "Android程序结构",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001009.mp4"
+  },
+  {
+    "chapterId": 1,
+    "videoId": "10",
+    "title": "第1章 Android 基础入门",
+    "secondTitle": "图片资源",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001010.mp4"
+  },
+  {
+    "chapterId": 1,
+    "videoId": "11",
+    "title": "第1章 Android基础入门",
+    "secondTitle": "主题和样式资源",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001011.mp4"
+  },
+  {
+    "chapterId": 1,
+    "videoId": "12",
+    "title": "第1章 Android 基础入门",
+    "secondTitle": "布局资源",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001012.mp4"
+  },
+  {
+    "chapterId": 1,
+    "videoId": "13",
+    "title": "第1章 Android基础入门",
+    "secondTitle": "字符串资源",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001013.mp4"
+  },
+  {
+    "chapterId": 1,
+    "videoId": "14",
+    "title": "第1章 Android 基础入门",
+    "secondTitle": "颜色资源",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001014.mp4"
+  },
+  {
+    "chapterId": 1,
+    "videoId": "15",
+    "title": "第1章 Android基础入门",
+    "secondTitle": "尺寸资源",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001015.mp4"
+  },
+  {
+    "chapterId": 1,
+    "videoId": "16",
+    "title": "第1章 Android 基础入门",
+    "secondTitle": "单元测试",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001016.mp4"
+  },
+  {
+    "chapterId": 1,
+    "videoId": "17",
+    "title": "第1章 Android基础入门",
+    "secondTitle": "LogCat的使用",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075001017.mp4"
+  },
+
+  {
+    "chapterId": 2,
+    "videoId": "1",
+    "title": "第2章 Android常见界面布局",
+    "secondTitle": "View视图",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075002001.mp4"
+  },
+  {
+    "chapterId": 2,
+    "videoId": "2",
+    "title": "第2章 Android常见界面布局",
+    "secondTitle": "在XML文件中编写布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075002002.mp4"
+  },
+  {
+    "chapterId": 2,
+    "videoId": "3",
+    "title": "第2章 Android常见界面布局",
+    "secondTitle": "在Java代码中编写布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075002003.mp4"
+  },
+  {
+    "chapterId": 2,
+    "videoId": "4",
+    "title": "第2章 Android常见界面布局",
+    "secondTitle": "布局的通用属性",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075002004.mp4"
+  },
+  {
+    "chapterId": 2,
+    "videoId": "5",
+    "title": "第2章 Android常见界面布局",
+    "secondTitle": "RelativeLayout相对布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075002005.mp4"
+  },
+  {
+    "chapterId": 2,
+    "videoId": "6",
+    "title": "第2章 Android常见界面布局",
+    "secondTitle": "LinearLayout线性布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075002006.mp4"
+  },
+  {
+    "chapterId": 2,
+    "videoId": "7",
+    "title": "第2章 Android常见界面布局",
+    "secondTitle": "TableLayout表格布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075002007.mp4"
+  },
+  {
+    "chapterId": 2,
+    "videoId": "8",
+    "title": "第2章 Android常见界面布局",
+    "secondTitle": "FrameLayout帧布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075002008.mp4"
+  },
+  {
+    "chapterId": 2,
+    "videoId": "9",
+    "title": "第2章 Android常见界面布局",
+    "secondTitle": "ConstraintLayout约束布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075002009.mp4"
+  },
+
+  {
+    "chapterId": 3,
+    "videoId": "1",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "TextView",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075003001.mp4"
+  },
+  {
+    "chapterId": 3,
+    "videoId": "2",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "Button",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075003002.mp4"
+  },
+  {
+    "chapterId": 3,
+    "videoId": "3",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "EditText",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075003003.mp4"
+  },
+  {
+    "chapterId": 3,
+    "videoId": "4",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "ImageView",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075003004.mp4"
+  },
+  {
+    "chapterId": 3,
+    "videoId": "5",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "RadioButton",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075003005.mp4"
+  },
+  {
+    "chapterId": 3,
+    "videoId": "6",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "CheckBox",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/07500306.mp4"
+  },
+  {
+    "chapterId": 3,
+    "videoId": "7",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "Toast",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075003007.mp4"
+  },
+  {
+    "chapterId": 3,
+    "videoId": "8",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "AlertDialog对话框概述",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075003008.mp4"
+  },
+  {
+    "chapterId": 3,
+    "videoId": "9",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "普通对话框",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075003009.mp4"
+  },
+  {
+    "chapterId": 3,
+    "videoId": "10",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "单选对话框",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075003010.mp4"
+  },
+  {
+    "chapterId": 3,
+    "videoId": "11",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "多选对话框",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075003011.mp4"
+  },
+  {
+    "chapterId": 3,
+    "videoId": "12",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "自定义对话框",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075003012.mp4"
+  },
+  {
+    "chapterId": 3,
+    "videoId": "13",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "ListView控件的简单使用",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075003013.mp4"
+  },
+  {
+    "chapterId": 3,
+    "videoId": "14",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "常用数据适配器",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075003014.mp4"
+  },
+  {
+    "chapterId": 3,
+    "videoId": "15",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "案例——Android购物商城",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075003015.mp4"
+  },
+  {
+    "chapterId": 3,
+    "videoId": "16",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "RecyclerView的使用",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075003016.mp4"
+  },
+  {
+    "chapterId": 3,
+    "videoId": "17",
+    "title": "第3章 Android常见界面控件",
+    "secondTitle": "自定义View",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075003017.mp4"
+  },
+
+  {
+    "chapterId": 4,
+    "videoId": "1",
+    "title": "第4章 程序活动单元Activity",
+    "secondTitle": "生命周期状态",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075004001.mp4"
+  },
+  {
+    "chapterId": 4,
+    "videoId": "2",
+    "title": "第4章 程序活动单元Activity",
+    "secondTitle": "生命周期方法",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075004002.mp4"
+  },
+  {
+    "chapterId": 4,
+    "videoId": "3",
+    "title": "第4章 程序活动单元Activity",
+    "secondTitle": "创建Activity",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075004003.mp4"
+  },
+  {
+    "chapterId": 4,
+    "videoId": "4",
+    "title": "第4章 程序活动单元Activity",
+    "secondTitle": "配置Activity",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075004004.mp4"
+  },
+  {
+    "chapterId": 4,
+    "videoId": "5",
+    "title": "第4章 程序活动单元Activity",
+    "secondTitle": "开启和关闭Activity",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075004005.mp4"
+  },
+  {
+    "chapterId": 4,
+    "videoId": "6",
+    "title": "第4章 程序活动单元Activity",
+    "secondTitle": "Intent",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075004006.mp4"
+  },
+  {
+    "chapterId": 4,
+    "videoId": "7",
+    "title": "第4章 程序活动单元Activity",
+    "secondTitle": "IntentFilter",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075004007.mp4"
+  },
+  {
+    "chapterId": 4,
+    "videoId": "8",
+    "title": "第4章 程序活动单元Activity",
+    "secondTitle": "在Activity之间数据传递",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075004008.mp4"
+  },
+  {
+    "chapterId": 4,
+    "videoId": "9",
+    "title": "第4章 程序活动单元Activity",
+    "secondTitle": "Activity之间的数据回传",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075004009.mp4"
+  },
+  {
+    "chapterId": 4,
+    "videoId": "10",
+    "title": "第4章 程序活动单元Activity",
+    "secondTitle": "Android中的任务栈",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075004010.mp4"
+  },
+  {
+    "chapterId": 4,
+    "videoId": "11",
+    "title": "第4章 程序活动单元Activity",
+    "secondTitle": "Activity的启动模式",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075004011.mp4"
+  },
+  {
+    "chapterId": 4,
+    "videoId": "12",
+    "title": "第4章 程序活动单元Activity",
+    "secondTitle": "Fragment简介",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075004012.mp4"
+  },
+  {
+    "chapterId": 4,
+    "videoId": "13",
+    "title": "第4章 程序活动单元Activity",
+    "secondTitle": "Fragment的生命周期",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075004013.mp4"
+  },
+  {
+    "chapterId": 4,
+    "videoId": "14",
+    "title": "第4章 程序活动单元Activity",
+    "secondTitle": "创建Fragment",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075004014.mp4"
+  },
+  {
+    "chapterId": 4,
+    "videoId": "15",
+    "title": "第4章 程序活动单元Activity",
+    "secondTitle": "在Activity中添加Fragment",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075004015.mp4"
+  },
+  {
+    "chapterId": 4,
+    "videoId": "16",
+    "title": "第4章 程序活动单元Activity",
+    "secondTitle": "案例—川菜菜谱",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075004016.mp4"
+  },
+
+  {
+    "chapterId": 5,
+    "videoId": "1",
+    "title": "第5章 数据存储",
+    "secondTitle": "数据存储方式",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075005001.mp4"
+  },
+  {
+    "chapterId": 5,
+    "videoId": "2",
+    "title": "第5章 数据存储",
+    "secondTitle": "保存与读取文件中的数据",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075005002.mp4"
+  },
+  {
+    "chapterId": 5,
+    "videoId": "3",
+    "title": "第5章 数据存储",
+    "secondTitle": "实战演练——保存QQ账号与密码",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075005003.mp4"
+  },
+  {
+    "chapterId": 5,
+    "videoId": "4",
+    "title": "第5章 数据存储",
+    "secondTitle": "将数据存入SharedPreferences中",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075005004.mp4"
+  },
+  {
+    "chapterId": 5,
+    "videoId": "5",
+    "title": "第5章 数据存储",
+    "secondTitle": "读取与删除SharedPreferences中的数据",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075005005.mp4"
+  },
+  {
+    "chapterId": 5,
+    "videoId": "6",
+    "title": "第5章 数据存储",
+    "secondTitle": "实战演练——保存QQ账号与密码",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075005006.mp4"
+  },
+  {
+    "chapterId": 5,
+    "videoId": "7",
+    "title": "第5章 数据存储",
+    "secondTitle": "SQLite数据库的创建",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075005007.mp4"
+  },
+  {
+    "chapterId": 5,
+    "videoId": "8",
+    "title": "第5章 数据存储",
+    "secondTitle": "SQLite数据库的基本操作",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075005008.mp4"
+  },
+  {
+    "chapterId": 5,
+    "videoId": "9",
+    "title": "第5章 数据存储",
+    "secondTitle": "SQLite数据库中的事务",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075005009.mp4"
+  },
+  {
+  "chapterId": 5,
+  "videoId": "10",
+  "title": "第5章 数据存储",
+  "secondTitle": "实战演练——绿豆通讯录",
+  "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075005010.mp4"
+  },
+
+  {
+    "chapterId": 6,
+    "videoId": "1",
+    "title": "第6章 阶段案例--记事本",
+    "secondTitle": "业务需求分析",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075006001.mp4"
+  },
+  {
+    "chapterId": 6,
+    "videoId": "2",
+    "title": "第6章 阶段案例--记事本",
+    "secondTitle": "架构分析",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075006002.mp4"
+  },
+  {
+    "chapterId": 6,
+    "videoId": "3",
+    "title": "第6章 阶段案例--记事本",
+    "secondTitle": "数据库类设计分析",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075006003.mp4"
+  },
+  {
+    "chapterId": 6,
+    "videoId": "4",
+    "title": "第6章 阶段案例--记事本",
+    "secondTitle": "需求分析与开发环境介绍",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075006004.mp4"
+  },
+  {
+    "chapterId": 6,
+    "videoId": "5",
+    "title": "第6章 阶段案例--记事本",
+    "secondTitle": "搭建记事本界面布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075006005.mp4"
+  },
+  {
+    "chapterId": 6,
+    "videoId": "6",
+    "title": "第6章 阶段案例--记事本",
+    "secondTitle": "搭建记事本界面Item布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075006006.mp4"
+  },
+  {
+    "chapterId": 6,
+    "videoId": "7",
+    "title": "第6章 阶段案例--记事本",
+    "secondTitle": "封装记录信息实体类",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075006007.mp4"
+  },
+  {
+    "chapterId": 6,
+    "videoId": "8",
+    "title": "第6章 阶段案例--记事本",
+    "secondTitle": "编写记事本界面列表适配器",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075006008.mp4"
+  },
+  {
+    "chapterId": 6,
+    "videoId": "9",
+    "title": "第6章 阶段案例--记事本",
+    "secondTitle": "创建数据库",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075006009.mp4"
+  },
+  {
+    "chapterId": 6,
+    "videoId": "10",
+    "title": "第6章 阶段案例--记事本",
+    "secondTitle": "实现记事本界面的显示功能",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075006010.mp4"
+  },
+  {
+    "chapterId": 6,
+    "videoId": "11",
+    "title": "第6章 阶段案例--记事本",
+    "secondTitle": "搭建添加记录界面和修改记录界面的布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075006011.mp4"
+  },
+  {
+    "chapterId": 6,
+    "videoId": "12",
+    "title": "第6章 阶段案例--记事本",
+    "secondTitle": "实现添加记录界面的功能",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075006012.mp4"
+  },
+  {
+    "chapterId": 6,
+    "videoId": "13",
+    "title": "第6章 阶段案例--记事本",
+    "secondTitle": "实现修改记录界面的功能",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075006013.mp4"
+  },
+  {
+    "chapterId": 6,
+    "videoId": "14",
+    "title": "第6章 阶段案例--记事本",
+    "secondTitle": "删除记事本中的记录",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075006014.mp4"
+  },
+  {
+    "chapterId": 6,
+    "videoId": "15",
+    "title": "第6章 阶段案例--记事本",
+    "secondTitle": "运行结果",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075006015.mp4"
+  },
+
+  {
+    "chapterId": 7,
+    "videoId": "1",
+    "title": "第7章 使用内容提供者共享数据",
+    "secondTitle": "内容提供者概述",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075007001.mp4"
+  },
+  {
+    "chapterId": 7,
+    "videoId": "2",
+    "title": "第7章 使用内容提供者共享数据",
+    "secondTitle": "创建内容提供者",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075007002.mp4"
+  },
+  {
+    "chapterId": 7,
+    "videoId": "3",
+    "title": "第7章 使用内容提供者共享数据",
+    "secondTitle": "查询其他程序的数据",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075007003.mp4"
+  },
+  {
+    "chapterId": 7,
+    "videoId": "4",
+    "title": "第7章 使用内容提供者共享数据",
+    "secondTitle": "实战演练——查看系统短信",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075007004.mp4"
+  },
+  {
+    "chapterId": 7,
+    "videoId": "5",
+    "title": "第7章 使用内容提供者共享数据",
+    "secondTitle": "什么是内容观察者",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075007005.mp4"
+  },
+  {
+    "chapterId": 7,
+    "videoId": "6",
+    "title": "第7章 使用内容提供者共享数据",
+    "secondTitle": "实战演练——监测数据变化",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075007006.mp4"
+  },
+
+  {
+    "chapterId": 8,
+    "videoId": "1",
+    "title": "第8章 广播机制",
+    "secondTitle": "广播机制的概述",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075008001.mp4"
+  },
+  {
+    "chapterId": 8,
+    "videoId": "2",
+    "title": "第8章 广播机制",
+    "secondTitle": "什么是广播接收者",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075008002.mp4"
+  },
+  {
+    "chapterId": 8,
+    "videoId": "3",
+    "title": "第8章 广播机制",
+    "secondTitle": "广播接收者的创建",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075008003.mp4"
+  },
+  {
+    "chapterId": 8,
+    "videoId": "4",
+    "title": "第8章 广播机制",
+    "secondTitle": "自定义广播",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075008004.mp4"
+  },
+  {
+    "chapterId": 8,
+    "videoId": "5",
+    "title": "第8章 广播机制",
+    "secondTitle": "实战演练——发送求救信号",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075008005.mp4"
+  },
+  {
+    "chapterId": 8,
+    "videoId": "6",
+    "title": "第8章 广播机制",
+    "secondTitle": "广播的类型",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075008006.mp4"
+  },
+  {
+    "chapterId": 8,
+    "videoId": "7",
+    "title": "第8章 广播机制",
+    "secondTitle": "实战演练——发送有序广播",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075008007.mp4"
+  },
+
+  {
+    "chapterId": 9,
+    "videoId": "1",
+    "title": "第9章 服务",
+    "secondTitle": "服务概述",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075009001.mp4"
+  },
+  {
+    "chapterId": 9,
+    "videoId": "2",
+    "title": "第9章 服务",
+    "secondTitle": "服务的创建",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075009002.mp4"
+  },
+  {
+    "chapterId": 9,
+    "videoId": "3",
+    "title": "第9章 服务",
+    "secondTitle": "服务的生命周期",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075009003.mp4"
+  },
+  {
+    "chapterId": 9,
+    "videoId": "4",
+    "title": "第9章 服务",
+    "secondTitle": "调用startService()方法启动服务",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075009004.mp4"
+  },
+  {
+    "chapterId": 9,
+    "videoId": "5",
+    "title": "第9章 服务",
+    "secondTitle": "调用bindService()方法启动服务",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075009005.mp4"
+  },
+  {
+    "chapterId": 9,
+    "videoId": "6",
+    "title": "第9章 服务",
+    "secondTitle": "本地服务通信和远程服务通信",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075009006.mp4"
+  },
+  {
+    "chapterId": 9,
+    "videoId": "7",
+    "title": "第9章 服务",
+    "secondTitle": "实战演练——音乐播放器",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075009007.mp4"
+  },
+
+  {
+    "chapterId": 10,
+    "videoId": "1",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "事件处理概述",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010001.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "2",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "基于回调机制的事件处理简介",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010002.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "3",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "onKeyDown()方法",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010003.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "4",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "onKeyUp()方法",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010004.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "5",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "onTouchEvent()方法",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010005.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "6",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "onFocusChanged()方法",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010006.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "7",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "基于监听接口机制的事件处理简介",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010007.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "8",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "OnClickListener接口",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010008.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "9",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "OnLongClickListener接口",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010009.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "10",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "OnFocusChangeListener接口",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010010.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "11",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "OnKeyListener接口",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010011.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "12",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "OnTouchListener接口",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010012.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "13",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "手势简介",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010013.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "14",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "手势检测",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010014.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "15",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "使用GestureLibrary类添加手势",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010015.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "16",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "使用Gestures Builder软件添加手势",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010016.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "17",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "手势识别",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010017.mp4"
+  },
+  {
+    "chapterId": 10,
+    "videoId": "18",
+    "title": "第10章 Android事件处理",
+    "secondTitle": "Handler消息机制",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075010018.mp4"
+  },
+
+  {
+    "chapterId": 11,
+    "videoId": "1",
+    "title": "第11章 网络编程",
+    "secondTitle": "HTTP协议通信简介",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075011001.mp4"
+  },
+  {
+    "chapterId": 11,
+    "videoId": "2",
+    "title": "第11章 网络编程",
+    "secondTitle": "使用HttpURLConnection访问网络",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075011002.mp4"
+  },
+  {
+    "chapterId": 11,
+    "videoId": "3",
+    "title": "第11章 网络编程",
+    "secondTitle": "使用WebView浏览网页",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075011003.mp4"
+  },
+  {
+    "chapterId": 11,
+    "videoId": "4",
+    "title": "第11章 网络编程",
+    "secondTitle": "使用WebView执行HTML代码",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075011004.mp4"
+  },
+  {
+    "chapterId": 11,
+    "videoId": "5",
+    "title": "第11章 网络编程",
+    "secondTitle": "设置WebView支持JavaScript",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075011005.mp4"
+  },
+  {
+    "chapterId": 11,
+    "videoId": "6",
+    "title": "第11章 网络编程",
+    "secondTitle": "JSON数据",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075011006.mp4"
+  },
+  {
+    "chapterId": 11,
+    "videoId": "7",
+    "title": "第11章 网络编程",
+    "secondTitle": "JSON解析",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075011007.mp4"
+  },
+  {
+    "chapterId": 11,
+    "videoId": "8",
+    "title": "第11章 网络编程",
+    "secondTitle": "实战演练——天气预报",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075011008.mp4"
+  },
+
+  {
+    "chapterId": 12,
+    "videoId": "1",
+    "title": "第12章 阶段案例--智能聊天机器人",
+    "secondTitle": "业务需求分析",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075012001.mp4"
+  },
+  {
+    "chapterId": 12,
+    "videoId": "2",
+    "title": "第12章 阶段案例--智能聊天机器人",
+    "secondTitle": "业务需求分析",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075012002.mp4"
+  },
+  {
+    "chapterId": 12,
+    "videoId": "3",
+    "title": "第12章 阶段案例--智能聊天机器人",
+    "secondTitle": "业务需求分析",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075012003.mp4"
+  },
+  {
+    "chapterId": 12,
+    "videoId": "4",
+    "title": "第12章 阶段案例--智能聊天机器人",
+    "secondTitle": "业务需求分析",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075012004.mp4"
+  },
+  {
+    "chapterId": 12,
+    "videoId": "5",
+    "title": "第12章 阶段案例--智能聊天机器人",
+    "secondTitle": "业务需求分析",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075012005.mp4"
+  },
+  {
+    "chapterId": 12,
+    "videoId": "6",
+    "title": "第12章 阶段案例--智能聊天机器人",
+    "secondTitle": "业务需求分析",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075012006.mp4"
+  },
+  {
+    "chapterId": 12,
+    "videoId": "7",
+    "title": "第12章 阶段案例--智能聊天机器人",
+    "secondTitle": "业务需求分析",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075012007.mp4"
+  },
+  {
+    "chapterId": 12,
+    "videoId": "8",
+    "title": "第12章 阶段案例--智能聊天机器人",
+    "secondTitle": "业务需求分析",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075012008.mp4"
+  },
+  {
+    "chapterId": 12,
+    "videoId": "9",
+    "title": "第12章 阶段案例--智能聊天机器人",
+    "secondTitle": "业务需求分析",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075012009.mp4"
+  },
+  {
+    "chapterId": 12,
+    "videoId": "10",
+    "title": "第12章 阶段案例--智能聊天机器人",
+    "secondTitle": "业务需求分析",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075012010.mp4"
+  },
+
+  {
+    "chapterId": 13,
+    "videoId": "1",
+    "title": "第13章 图形图像处理",
+    "secondTitle": "Bitmap类",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075013001.mp4"
+  },
+  {
+    "chapterId": 13,
+    "videoId": "2",
+    "title": "第13章 图形图像处理",
+    "secondTitle": "BitmapFactory类",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075013002.mp4"
+  },
+  {
+    "chapterId": 13,
+    "videoId": "3",
+    "title": "第13章 图形图像处理",
+    "secondTitle": "Paint类",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075013003.mp4"
+  },
+  {
+    "chapterId": 13,
+    "videoId": "4",
+    "title": "第13章 图形图像处理",
+    "secondTitle": "Canvas类",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075013004.mp4"
+  },
+  {
+    "chapterId": 13,
+    "videoId": "5",
+    "title": "第13章 图形图像处理",
+    "secondTitle": "为图像添加特效",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075013005.mp4"
+  },
+  {
+    "chapterId": 13,
+    "videoId": "6",
+    "title": "第13章 图形图像处理",
+    "secondTitle": "补间动画",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075013006.mp4"
+  },
+  {
+    "chapterId": 13,
+    "videoId": "7",
+    "title": "第13章 图形图像处理",
+    "secondTitle": "逐帧动画",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075013007.mp4"
+  },
+
+  {
+    "chapterId": 14,
+    "videoId": "1",
+    "title": "第14章 多媒体应用开发",
+    "secondTitle": "MediaPlayer类播放音频",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075014001.mp4"
+  },
+  {
+    "chapterId": 14,
+    "videoId": "2",
+    "title": "第14章 多媒体应用开发",
+    "secondTitle": "SoundPool类播放音频",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075014002.mp4"
+  },
+  {
+    "chapterId": 14,
+    "videoId": "3",
+    "title": "第14章 多媒体应用开发",
+    "secondTitle": "案例—弹钢琴",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075014003.mp4"
+  },
+  {
+    "chapterId": 14,
+    "videoId": "4",
+    "title": "第14章 多媒体应用开发",
+    "secondTitle": "VideoView控件播放视频",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075014004.mp4"
+  },
+  {
+    "chapterId": 14,
+    "videoId": "5",
+    "title": "第14章 多媒体应用开发",
+    "secondTitle": "案例—VideoView视频播放器",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075014005.mp4"
+  },
+  {
+    "chapterId": 14,
+    "videoId": "6",
+    "title": "第14章 多媒体应用开发",
+    "secondTitle": "MediaPlayer类和SurfaceView控件播放视频",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075014006.mp4"
+  },
+  {
+    "chapterId": 14,
+    "videoId": "7",
+    "title": "第14章 多媒体应用开发",
+    "secondTitle": "案例—SurfaceView视频播放器",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075014007.mp4"
+  },
+
+  {
+    "chapterId": 15,
+    "videoId": "1",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "项目概述",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015001.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "2",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "开发环境",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015002.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "3",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "模块说明",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015003.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "4",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "店铺界面",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015004.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "5",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "店铺详情界面",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015005.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "6",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "菜品详情界面",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015006.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "7",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "订单界面",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015007.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "8",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "服务器数据准备",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015008.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "9",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "搭建标题栏布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015009.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "10",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "搭建店铺界面布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015010.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "11",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "搭建店铺Item布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015011.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "12",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "封装店铺信息实体类",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015012.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "13",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "编写店铺列表适配器",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015013.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "14",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "实现店铺界面显示功能",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015014.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "15",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "搭建店铺详情界面布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015015.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "16",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "搭建菜单Item布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015016.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "17",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "搭建购物车Item布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015017.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "18",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "搭建确认清空购物车界面布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015018.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "19",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "编写菜单列表适配器",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015019.mp4"
+  },{
+  "chapterId": 15,
+  "videoId": "20",
+  "title": "第15章 综合项目——网上订餐",
+  "secondTitle": "编写购物车列表适配器",
+  "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015020.mp4"
+},
+  {
+    "chapterId": 15,
+    "videoId": "21",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "实现菜单显示与购物车功能",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015021.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "22",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "搭建菜品详情界面布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015022.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "23",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "实现菜品界面显示功能",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015023.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "24",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "搭建订单界面布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015024.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "25",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "搭建订单Item布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015025.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "26",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "搭建支付界面布局",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015026.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "27",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "搭建订单列表适配器",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015027.mp4"
+  },
+  {
+    "chapterId": 15,
+    "videoId": "28",
+    "title": "第15章 综合项目——网上订餐",
+    "secondTitle": "实现订单显示与支付功能",
+    "videoPath": "https://new-bxgstorge.boxuegu.com/bxg/textbook/075/afterClassVideo/075015028.mp4"
+  }
+
+
+
+]
